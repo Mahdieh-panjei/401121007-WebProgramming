@@ -3,6 +3,7 @@ define('ROOT_PATH',__DIR__);
 require __DIR__.'/vendor/autoload.php';
 require_once(__DIR__.'/helper/functions.php');
 // require_once(__DIR__.'/app/Route.php');
+//dslbjknsik
  
 use App\Route;
 use App\Controller\FrontController;
